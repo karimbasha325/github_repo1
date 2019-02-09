@@ -1,0 +1,18 @@
+.container .jumbotron{
+  background: red;
+  margin-top: 100px;
+}
+
+ .btn{
+  background: yellow;
+  color: red;
+  border: 2px solid black;
+  float: left;
+}
+
+thead{
+  border: 5px solid black;
+}
+table{
+  border: 2px  solid black;
+}
